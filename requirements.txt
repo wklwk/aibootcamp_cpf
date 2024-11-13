@@ -1,1 +1,12 @@
 streamlit
+st_pages
+python-dotenv
+
+tiktoken
+langchain
+langchain_openai
+langchain_experimental
+langchain_community
+langchain_chroma
+
+pysqlite3-binary
